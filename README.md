@@ -1,5 +1,5 @@
 
-# Introducción a Server Side Rendering (SSR)
+# 1 Introducción a Server Side Rendering (SSR)
 
 ## Teoría
 
@@ -51,7 +51,7 @@ Vamos a crear un servidor básico usando Express.js para servir contenido HTML.
 
 
 
-# SSR vs Client Side Rendering (CSR)
+# 2 SSR vs Client Side Rendering (CSR)
 
 ## Teoría
 
@@ -141,7 +141,7 @@ Vamos a crear un servidor básico usando Express.js para servir contenido HTML.
    Abre tu navegador y visita `http://localhost:3000` para ver el mensaje "Hello from Client Side Rendering!".
 
 
-# Herramientas y Frameworks para SSR
+# 3 Herramientas y Frameworks para SSR
 
 ## Teoría
 
@@ -189,7 +189,7 @@ Vamos a crear un servidor básico usando Express.js para servir contenido HTML.
    Abre tu navegador y visita `http://localhost:3000` para ver el mensaje "Hello from Next.js SSR!".
 
 
-# Renderizado Híbrido
+# 4 Renderizado Híbrido
 
 ## Teoría
 
@@ -271,7 +271,7 @@ El renderizado híbrido combina Server Side Rendering (SSR) y Client Side Render
 
 
 
-# Rutas Dinámicas y Estáticas en SSR
+# 5 Rutas Dinámicas y Estáticas en SSR
 
 ## Teoría
 
